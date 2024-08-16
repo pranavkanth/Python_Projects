@@ -1,3 +1,4 @@
 /.editorconfig
 /test.py
 /__pycache__
+/.vscode
