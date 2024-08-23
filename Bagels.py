@@ -7,7 +7,7 @@ def main():
     print('''\nWelcome to a deductive logic game. I am thiking a {}-digit positive integer with no repeated digits. Now, You give it a try to guess the number .Here are some gules.
     When I say :    That mean:
     Pico            One digit is correct but in the wrong position.
-    Fermi           One digit is correct and in the right position.8
+    Fermi           One digit is correct and in the right position.
     Bagels          No digit is correct.'''.format(NUM_DIGITS))
 
     while True:
